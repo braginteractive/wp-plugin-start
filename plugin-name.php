@@ -105,7 +105,7 @@ final class Plugin_Name {
 	 */
 	private function includes() {
 
-		require_once PLUGIN_NAME_PLUGIN_DIR . 'includes/scripts.php'
+		require_once PLUGIN_NAME_PLUGIN_DIR . 'includes/scripts.php';
 
 	}
 
