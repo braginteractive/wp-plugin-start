@@ -1,8 +1,8 @@
-=== Starter WP Plugin ===
+## Starter WP Plugin 
 
 Little OOP WordPress plugin to use as a starting point. 
 
-== Usage ==
+### Usage 
 Find and Replace the following:
 - plugin-name
 - PLUGIN_NAME
